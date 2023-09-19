@@ -1,0 +1,25 @@
+{
+  "screenWidth": 720,
+  "screenHeight": 640,
+  "title": "咪咪射击",
+  "bgColor": {
+    "r": 230,
+    "g": 230,
+    "b": 230,
+    "a": 255
+  },
+  "moveStep": 10,
+
+  "alienSpeedFactor": 2,
+  "bulletWidth": 7,
+  "bulletHeight": 11,
+  "bulletSpeedFactor": 12,
+  "bulletInterval": 300,
+  "bulletColor": {
+    "r": 80,
+    "g": 80,
+    "b": 80,
+    "a": 255
+  }
+}
+
